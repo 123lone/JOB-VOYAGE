@@ -1,0 +1,10 @@
+# Ignore node_modules from both frontend and backend
+frontend/node_modules/
+backend/node_modules/
+
+# Optional: common system and build files
+.DS_Store
+*.log
+.env
+dist/
+build/
